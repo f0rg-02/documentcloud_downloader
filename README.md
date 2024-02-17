@@ -77,3 +77,11 @@ It is a lot better especially if you are adding various different pieces of info
 The output is to what directory you want to save to and if not specified would save to the current directory. The titles work in a way where it takes whatever is in there and it loops through what was in the file and replaces the spaces with `-` which was due to noticing that some files had dashes while others had spaces so to make sure all the documents were downloaded properly that matched the keywords for the titles.
 
 It does work in a way where you can omit flags you don't want/need and most are just there for more flexibility and organization.
+
+------
+
+If you like my work or whatever, you can buy me a coffee:
+
+<a href="https://www.buymeacoffee.com/alex_f0rg"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=alex_f0rg&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+My goal is to get to $50 so that way I can work toward buying better hardware and whatnot so I can continue doing my research and work.
