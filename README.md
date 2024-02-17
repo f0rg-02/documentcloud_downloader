@@ -12,7 +12,7 @@ Since I hate python so much, some of my code is terrible, but I really don't car
 
 I went with venv over poetry or whatever so to setup the venv environment I just kept things simple and ran: `python3 -m venv venv`
 
-To install venv with debian based systems you just run: `sudo apt-get install python3-venv`
+To install venv with debian based systems you just run: `sudo apt install python3-venv`
 
 The python packages you do need to install are:
 
